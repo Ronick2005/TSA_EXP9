@@ -4,7 +4,7 @@
 ### AIM:
 To create a project on time series analysis for forecasting website visitor traffic using the ARIMA model in Python and compare its performance with other forecasting models.
 ### ALGORITHM:
-1. Explore the dataset of weather 
+1. Explore the dataset of website visitors
 2. Check for stationarity of time series time series plot
    ACF plot and PACF plot
    ADF test
